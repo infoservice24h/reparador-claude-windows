@@ -15,4 +15,4 @@ Este script realiza uma limpeza profunda das políticas do Registro e aplica um 
 2. Copie o comando abaixo, cole na tela do PowerShell e pressione **Enter**:
 
 ```powershell
-irm [https://raw.githubusercontent.com/infoservice24h/SEU-REPO-AQUI/main/reparador.ps1](https://raw.githubusercontent.com/infoservice24h/SEU-REPO-AQUI/main/reparador.ps1) | iex
+irm https://raw.githubusercontent.com/infoservice24h/reparador-claude-windows/refs/heads/main/reparador.ps1 | iex
